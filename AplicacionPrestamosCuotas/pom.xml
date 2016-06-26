@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>co.edu.usbcali.scm</groupId>
+  <artifactId>AplicacionPrestamosCuotas</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>AplicacionPrestamosCuotas</name>
+  <description>Aplicación que recibe el plazo, la tasa nominal anual y el  valor del préstamo y permite calcular la alicuota, cuota de capital fijo más intereses, los intereses a pagar por cada tipo de cuota</description>
+  <dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+		</dependency>
+	</dependencies>
+
+</project>
